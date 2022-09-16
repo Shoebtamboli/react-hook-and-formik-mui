@@ -1,2 +1,1 @@
-# react-hook-and-formik-mui
-Created with CodeSandbox
+## Comparision of react-hook-form and formik with MUI
